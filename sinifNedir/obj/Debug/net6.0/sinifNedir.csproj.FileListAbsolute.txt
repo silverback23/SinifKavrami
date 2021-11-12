@@ -1,0 +1,15 @@
+D:\Ders\Çalışma\vs6\sinifNedir\bin\Debug\net6.0\sinifNedir.exe
+D:\Ders\Çalışma\vs6\sinifNedir\bin\Debug\net6.0\sinifNedir.deps.json
+D:\Ders\Çalışma\vs6\sinifNedir\bin\Debug\net6.0\sinifNedir.runtimeconfig.json
+D:\Ders\Çalışma\vs6\sinifNedir\bin\Debug\net6.0\sinifNedir.dll
+D:\Ders\Çalışma\vs6\sinifNedir\bin\Debug\net6.0\ref\sinifNedir.dll
+D:\Ders\Çalışma\vs6\sinifNedir\bin\Debug\net6.0\sinifNedir.pdb
+D:\Ders\Çalışma\vs6\sinifNedir\obj\Debug\net6.0\sinifNedir.csproj.AssemblyReference.cache
+D:\Ders\Çalışma\vs6\sinifNedir\obj\Debug\net6.0\sinifNedir.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\Çalışma\vs6\sinifNedir\obj\Debug\net6.0\sinifNedir.AssemblyInfoInputs.cache
+D:\Ders\Çalışma\vs6\sinifNedir\obj\Debug\net6.0\sinifNedir.AssemblyInfo.cs
+D:\Ders\Çalışma\vs6\sinifNedir\obj\Debug\net6.0\sinifNedir.csproj.CoreCompileInputs.cache
+D:\Ders\Çalışma\vs6\sinifNedir\obj\Debug\net6.0\sinifNedir.dll
+D:\Ders\Çalışma\vs6\sinifNedir\obj\Debug\net6.0\ref\sinifNedir.dll
+D:\Ders\Çalışma\vs6\sinifNedir\obj\Debug\net6.0\sinifNedir.pdb
+D:\Ders\Çalışma\vs6\sinifNedir\obj\Debug\net6.0\sinifNedir.genruntimeconfig.cache
